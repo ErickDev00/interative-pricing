@@ -18,4 +18,4 @@ Complete and functional online pricing page, has reusable code.
 
 ## **Technologies**
 
-In the project was used: Html; Sass; Javascript;
+In the project was used: Html; Sass; Javascript
