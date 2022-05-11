@@ -1,6 +1,6 @@
 # interative-pricing-component
 
-<p align="center">product/service information, fully interactive</p>
+<p align="center">product/service information, fully interactiv</p>
 
 <p align="center">
  <a href="#why">Why</a> • 
