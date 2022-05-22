@@ -1,4 +1,4 @@
-# interative-pricing-component
+# interative-pricing-component.
 
 <p align="center">product/service information, fully interactive</p>
 
